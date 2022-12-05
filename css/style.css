@@ -499,4 +499,10 @@ body {
   line-height: 19px;
   color: #219653;
 }
-/*=======================*/
+/*===================*/
+.questions {
+  min-width: 1920px;
+  height: 985px;
+  background: url(../img/),
+    linear-gradient(301.83deg, #0d5b2e -2.22%, #219653 82.04%);
+}
